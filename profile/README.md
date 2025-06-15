@@ -11,7 +11,7 @@ Um equipamento portátil baseado em **ESP32**, equipado com sensores para a cole
 
 ## 🌐 Serviços em NodeJS de Broker MQTT e API
 
-Com NodeJs um **Broker MQTT** recebe os dados enviados pelos dispositivos. Em seguida, uma **API** processa e armazena essas informações em um banco de dados, tornando-as acessíveis para os usuários finais.
+Com NodeJs foi criado um **Broker MQTT** recebe os dados enviados pelos dispositivos. Em seguida, uma **API** processa e armazena essas informações em um banco de dados, tornando-as acessíveis para os usuários finais.
 
 ## 💻 Aplicação Web (Sistema 7LIFE)
 
